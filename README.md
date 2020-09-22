@@ -1,15 +1,17 @@
 # Tech Interview
   
-
+<br />
 
 ## 📌 정렬 알고리즘 (Algorithm)
 - [[URL]](https://www.notion.so/Algorithm-Technique-e47331c31739421f8f964a388d9ef052)
   
-  
+<br />
+<br />
   
 ## 📌 자료구조 (DS - Data Structure)
   
-
+<br />
+<br />
 
 ## 📌 운영체제 (OS - Operating System)
 - [운영체제란?](/OS/운영체제란?.md)
