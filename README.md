@@ -26,5 +26,5 @@
 
 ## Language
 ### 📌 JAVA
-- [JVM (Java Virutal Machine)](/JAVA/JVM.md)
-- [컴파일 과정](/JAVA/컴파일과정.md)
+- [JVM (Java Virtual Machine)](/Java/JVM.md)
+- [컴파일 과정](/Java/컴파일과정.md)
