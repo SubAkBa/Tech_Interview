@@ -3,9 +3,6 @@
 <br />
 
 ## CS (Computer Science) 
-
-<br />
-
 ### 📌 정렬 알고리즘 (Algorithm)
 - [[URL]](https://www.notion.so/Algorithm-Technique-e47331c31739421f8f964a388d9ef052)
   
@@ -25,10 +22,9 @@
 - [교착상태 (DeadLock)](/OS/교착상태(DeadLock).md)
 - [세마포어 (Semaphore)](/OS/세마포어(Semaphore).md)
 
-## Language
-
 <br />
 
+## Language
 ### 📌 JAVA
 - [JVM (Java Virutal Machine)](/JAVA/JVM.md)
 - [컴파일 과정](/JAVA/컴파일과정.md)
