@@ -14,6 +14,12 @@
 <br />
 <br />
 
+### 📌 네트워크 (Network)
+- [TCP Flag](/Network/TCPFlag.md)
+
+<br />
+<br />
+
 ### 📌 운영체제 (OS - Operating System)
 - [운영체제란?](/OS/운영체제란?.md)
 - [프로세스와 쓰레드 (Process & Thread)](/OS/프로세스&쓰레드.md)
@@ -28,3 +34,4 @@
 ### 📌 JAVA
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
+- [GC (Garbage Collection)](/Java/GC.md)
