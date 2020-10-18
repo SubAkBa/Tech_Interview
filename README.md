@@ -29,7 +29,13 @@
 - [인터럽트 (Interupt)]()
 - [경쟁상태 (Race Condition)](/OS/경쟁상태(RaceCondition).md)
 - [교착상태 (DeadLock)](/OS/교착상태(DeadLock).md)
-- [세마포어 (Semaphore)](/OS/세마포어(Semaphore).md)
+- [세마포어와 뮤텍스 (Semaphore & Mutex)](/OS/세마포어(Semaphore)&뮤텍스(Mutex).md)
+
+<br />
+<br />
+
+### 📌 웹 (Web)
+- [쿠키 (Cookie) & 세션 (Session)](/Web/쿠키(Cookie)&세션(Session).md)
 
 <br />
 
