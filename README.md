@@ -16,7 +16,7 @@
 
 ### 📌 네트워크 (Network)
 - [OSI 7계층](/Network/OSI7계층(OSI7Layer).md)
-- [TCP Flag](/Network/TCPFlag.md)
+- [TCP 3 & 4 Way Handshake](/Network/TCP3-WayHandshake&4-WayHandShake.md)
 - [대칭키 & 공개키](/Network/대칭키&공개키.md)
 - [HTTP & HTTPS](/Network/HTTP&HTTPS.md)
 
