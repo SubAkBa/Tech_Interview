@@ -36,6 +36,7 @@
 
 ### 📌 웹 (Web)
 - [쿠키 (Cookie) & 세션 (Session)](/Web/쿠키(Cookie)&세션(Session).md)
+- [REST API](/Web/RESTAPI.md)
 
 <br />
 
