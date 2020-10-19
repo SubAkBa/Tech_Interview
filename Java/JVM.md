@@ -117,7 +117,7 @@ Java Native Interface를 통해 바이트 코드로 변환하여 저장한다.
 객체를 저장하는 가상 메모리 공간이며, new 연산자로 생성된 객체와 배열을 저장한다.  
 Class Area에 올라온 클래스들만 객체로 생성할 수 있으며, GC (Garbage Collector) 의 대상이 된다.
 
-<img src="../img/JVM3.png">
+<img src="../img/JVM3.png" width="500">
 
 > i) Permanent Generation
 >
