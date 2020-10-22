@@ -15,7 +15,8 @@
 <br />
 
 ### 📌 데이터베이스 (DB - Database)
-- [트랜잭션 (Transaction)](/DB/Transaction.md)
+- [트랜잭션 (Transaction)](/DB/트랜잭션(Transaction).md)
+- [트랜잭션 격리 수준 (Transaction Isolation Level)](/DB/트랜잭션격리수준(TransactionIsolationLevel).md)
 
 ### 📌 네트워크 (Network)
 - [OSI 7계층](/Network/OSI7계층(OSI7Layer).md)
