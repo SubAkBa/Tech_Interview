@@ -17,6 +17,10 @@
 ### 📌 데이터베이스 (DB - Database)
 - [트랜잭션 (Transaction)](/DB/트랜잭션(Transaction).md)
 - [트랜잭션 격리 수준 (Transaction Isolation Level)](/DB/트랜잭션격리수준(TransactionIsolationLevel).md)
+- [인덱스 (Index)](/DB/인덱스(Index).md)
+
+<br />
+<br />
 
 ### 📌 네트워크 (Network)
 - [OSI 7계층](/Network/OSI7계층(OSI7Layer).md)
@@ -47,6 +51,7 @@
 <br />
 
 ### 📌 JAVA
+- [JDK별 추가 기능](/Java/JDKVersion.md)
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
 - [GC (Garbage Collection)](/Java/GC.md)
