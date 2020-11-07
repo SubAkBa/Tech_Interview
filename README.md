@@ -52,6 +52,7 @@
 <br />
 
 ### 📌 JAVA
+- [원시 타입 & 참조 타입 비교](/Java/원시타입&참조타입.md)
 - [JDK별 추가 기능](/Java/JDKVersion.md)
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
