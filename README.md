@@ -33,7 +33,7 @@
 <br />
 
 ### 📌 운영체제 (OS - Operating System)
-- [운영체제란?](/OS/운영체제란?.md)
+- [운영체제란?]()
 - [프로세스와 쓰레드 (Process & Thread)](/OS/프로세스&쓰레드.md)
 - [인터럽트 (Interupt)]()
 - [경쟁상태 (Race Condition)](/OS/경쟁상태(RaceCondition).md)
@@ -64,5 +64,6 @@
 <br />
 
 ### 📌 Spring
+- [@Bean & @Component](/Spring/Bean&Component.md)
 - [Spring Bean Scope](/Spring/SpringBeanScope.md)
-- [Spring MVC Life Cycle](/Spring/MVCLifeCycle.md)
+- [Spring MVC Life Cycle](/Spring/SpringMVCLifeCycle.md)
