@@ -20,10 +20,14 @@ Setter나 Builder를 통해 사용자가 프로퍼티를 변경해서 생성한 
 
 둘은 각자 선언할 수 있는 타입이 정해져 있기 때문에 해당 용도외의 선언은 컴파일 에러를 발생시킨다.
 
+<br />
+
 Bean
+
 <img src="../img/bean&component2.png" width="500">
 
 <br />
 
 Component
+
 <img src="../img/bean&component1.png" width="500">

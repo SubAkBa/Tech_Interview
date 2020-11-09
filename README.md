@@ -2,7 +2,6 @@
 
 <br />
 
-## CS (Computer Science) 
 ### 📌 정렬 알고리즘 (Algorithm)
 - [[URL]](https://www.notion.so/Algorithm-Technique-e47331c31739421f8f964a388d9ef052)
   
@@ -65,5 +64,6 @@
 
 ### 📌 Spring
 - [@Bean & @Component](/Spring/Bean&Component.md)
+- [@Controller & @RestController](/Spring/Controller&RestController.md)
 - [Spring Bean Scope](/Spring/SpringBeanScope.md)
 - [Spring MVC Life Cycle](/Spring/SpringMVCLifeCycle.md)
