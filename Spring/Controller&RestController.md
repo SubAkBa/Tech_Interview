@@ -1,6 +1,8 @@
 ## @RestController & @Controller
 Spring에서 Controller를 지정해주기 위한 어노테이션이며, HTTP Response Body가 생성되는 방식에 차이가 있다.
 
+<br />
+
 #### @Controller (Spring MVC Controller)
 주로 View를 반환하기 위해 사용하며, 아래와 같은 과정을 통해 Spring MVC Controller는 Client의 요청으로부터 View를 반환해준다.
 

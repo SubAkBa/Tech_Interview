@@ -24,10 +24,10 @@ Setter나 Builder를 통해 사용자가 프로퍼티를 변경해서 생성한 
 
 Bean
 
-<img src="../img/bean&component2.png" width="500">
+<img src="../img/bean&component2.png" width="700">
 
 <br />
 
 Component
 
-<img src="../img/bean&component1.png" width="500">
+<img src="../img/bean&component1.png" width="700">

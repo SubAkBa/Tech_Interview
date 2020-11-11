@@ -1,7 +1,7 @@
 ## Spring MVC Request Life Cycle
 
 #### 0. 전체구조
-<img src="../img/springmvclc1.jpeg" width="500">
+<img src="../img/springmvclc1.jpeg">
 
 <br />
 
@@ -50,11 +50,11 @@ Request와 매핑되는 곳이며, Request를 어떤 로직 (Service) 으로 처
 <br />
 
 #### 7. Repository
-DB에 접근하는 객체이며, DAO (Data Access Object) 라고 부른다.  
+DB에 접근하는 객체이며, DAO (Data Access Object) 라고 부른다.  
 Service에서 DB에 접근할 수 있게 하여 데이터의 CRUD를 수행할 수 있게 해준다.
 
 <br />
 
 #### 8. ViewResolver
 Controller에서 반환한 View의 이름을 DispatcherServlet으로 부터 넘겨받고 해당 View를 렌더링한다.  
-렌더링한 View는 Dispatcher에게 전달하고, DispatcherServlet는 해당 View 화면을 Response한다.
+렌더링한 View는 Dispatcher에게 전달하고, DispatcherServlet는 해당 View 화면을 Response한다.
