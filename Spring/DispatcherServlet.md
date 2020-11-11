@@ -11,7 +11,7 @@ Servlet Container에서 HTTP 프로토콜을 통해 들어오는 모든 요청�
 <br />
 
 #### 장점
-기존에는 요청 URL당 Servlet을 생성하고 그에 맞는 Controller에게 요청을 보내주는 코드를 전부 각각 따로 web.xml에 작성해야 했다.
+기존에는 요청 URL당 Servlet을 생성하고 그에 맞는 컨트롤러에게 요청을 보내주는 코드를 전부 각각 따로 web.xml에 작성해야 했다.
 
 하지만, DispatcherServlet이 해당 어플리케이션으로 들어오는 모든 요청을 핸들링해주면서 작업을 상당히 편리하게 할 수 있고, 이 서블릿을 이용한다면 @MVC 역시 사용할 수 있게 됐다.
 
@@ -21,16 +21,17 @@ Servlet Container에서 HTTP 프로토콜을 통해 들어오는 모든 요청�
 <br />
 
 #### 단점
-요청을 Controller에게 넘겨주는 방식은 효율적인 것처럼 보이지만, 모든 요청을 처리하다보니 이미지나 HTML 파일을 불러오는 요청마저 전부 Controller에게 넘긴다.
+요청을 컨트롤러에게 넘겨주는 방식은 효율적인 것처럼 보이지만, 모든 요청을 처리하다보니 이미지나 HTML 파일을 불러오는 요청마저 전부 컨트롤러에게 넘긴다.
 
-게다가,JSP 파일 안의 JavaScript나 StyleCSS 파일들에 대한 요청들 까지도 모두 DispatcherServlet이 가로채기 때문에 자원을 불러오지 못하는 상황도 발생한다.  
+게다가, JSP 파일 안의 JavaScript나 StyleCSS 파일들에 대한 요청들까지도 DispatcherServlet이 모두 가로채기 때문에 자원을 불러오지 못하는 상황도 발생한다.  
 
 <br />
 <br />
 
 #### 해결책
 1. 클라이언트의 요청을 2가지로 분리하여 구분
-(1) /apps의 URL로 접근하면 DispatcherServlet이 담당한다.
+
+(1) /apps의 URL로 접근하면 DispatcherServlet이 담당한다.  
 (2) /resources의 URL로 접근하면 DispatcherServlet이 컨트롤할 수 없으므로 담당하지 않는다.
 
 이러한 방식은 괜찮지만 상당히 코드가 지저분해지며, 모든 요청에 대해서 위와 같은 URL을 붙여주기 때문에 직관적인 설계가 될 수 없다.
