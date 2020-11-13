@@ -58,7 +58,7 @@
 - [원시 타입 & 참조 타입 비교](/Java/원시타입&참조타입.md)
 - [제네릭 (Generic)](/Java/Generic.md)
 - [final](/Java/Final.md)
-- [오버로딩 (Overloading) & 오버라이딩 (Overriding)](/Java/Overloadding&Overriding.md)
+- [오버로딩 (Overloading) & 오버라이딩 (Overriding)](/Java/Overloading&Overriding.md)
 - [String vs StringBuilder vs StringBuffer](/Java/StringvsStringBuildervsStringBuffer.md)
 
 <br />
