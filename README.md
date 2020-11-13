@@ -59,7 +59,7 @@
 - [제네릭 (Generic)](/Java/Generic.md)
 - [final](/Java/Final.md)
 - [오버로딩 (Overloading) & 오버라이딩 (Overriding)](/Java/Overloading&Overriding.md)
-- [String vs StringBuilder vs StringBuffer](/Java/StringvsStringBuildervsStringBuffer.md)
+- [String & StringBuilder & StringBuffer](/Java/StringvsStringBuildervsStringBuffer.md)
 
 <br />
 <br />
