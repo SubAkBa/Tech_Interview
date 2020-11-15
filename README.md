@@ -60,6 +60,7 @@
 - [final](/Java/Final.md)
 - [오버로딩 (Overloading) & 오버라이딩 (Overriding)](/Java/Overloadding&Overriding.md)
 - [String vs StringBuilder vs StringBuffer](/Java/StringvsStringBuildervsStringBuffer.md)
+- [직렬화 (Serialization)](/Java/직렬화&역직렬화.md)
 
 <br />
 <br />
