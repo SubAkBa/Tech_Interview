@@ -56,6 +56,7 @@
 - [컴파일 과정](/Java/컴파일과정.md)
 - [GC (Garbage Collection)](/Java/GC.md)
 - [원시 타입 & 참조 타입 비교](/Java/원시타입&참조타입.md)
+- [동일성 (Identity) & 동등성 (Equality)](/Java/identity&equality.md)
 - [제네릭 (Generic)](/Java/Generic.md)
 - [final](/Java/Final.md)
 - [직렬화 (Serialization)](/Java/직렬화&역직렬화.md)
