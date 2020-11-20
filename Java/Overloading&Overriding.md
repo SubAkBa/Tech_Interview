@@ -1,6 +1,6 @@
-## 오버로딩 (Overloadding) & 오버라이딩 (Overriding)
+## 오버로딩 (Overloading) & 오버라이딩 (Overriding)
 
-#### 오버로딩 (Overloadding)
+#### 오버로딩 (Overloading)
 동일한 이름의 메서드를 여러 개 가지면서 매개변수의 유형과 개수를 다르게 하여 만드는 것
 
 <br />
