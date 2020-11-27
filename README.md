@@ -51,6 +51,7 @@
 <br />
 
 ### 📌 JAVA
+- [SOLID](/Java/SOLID.md)
 - [JDK별 추가 기능](/Java/JDKVersion.md)
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
