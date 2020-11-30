@@ -78,4 +78,6 @@
 <br />
 
 ### 📌 JPA
+- [JPA](/JPA/JPA.md)
+- [영속성 컨텍스트 (Persistence Context)](/JPA/영속성컨텍스트.md)
 - [N + 1](/JPA/N+1.md)
