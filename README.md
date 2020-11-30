@@ -52,7 +52,7 @@
 
 ### 📌 JAVA
 - [SOLID](/Java/SOLID.md)
-- [JDK8](/Java/JDKVersion.md)
+- [JDK8](/Java/JDK8.md)
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
 - [GC (Garbage Collection)](/Java/GC.md)
