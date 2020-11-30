@@ -73,3 +73,9 @@
 - [Dispatcher-Servlet](/Spring/DispatcherServlet.md)
 - [Spring Bean Scope](/Spring/SpringBeanScope.md)
 - [Spring MVC Life Cycle](/Spring/SpringMVCLifeCycle.md)
+
+<br />
+<br />
+
+### 📌 JPA
+- [N + 1](/JPA/N+1.md)
