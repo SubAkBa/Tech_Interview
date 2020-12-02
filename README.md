@@ -52,7 +52,7 @@
 
 ### 📌 JAVA
 - [SOLID](/Java/SOLID.md)
-- [JDK8](/Java/JDK8.md)
+- [JDK 8](/Java/JDK8.md)
 - [JVM (Java Virtual Machine)](/Java/JVM.md)
 - [컴파일 과정](/Java/컴파일과정.md)
 - [GC (Garbage Collection)](/Java/GC.md)
@@ -78,6 +78,7 @@
 <br />
 
 ### 📌 JPA
-- [JPA](/JPA/JPA.md)
+- [JPA (Java Persistence API)](/JPA/JPA.md)
 - [영속성 컨텍스트 (Persistence Context)](/JPA/영속성컨텍스트.md)
 - [N + 1](/JPA/N+1.md)
+- [ORM (Object Relational Mapping)](/JPA/ORM.md)
