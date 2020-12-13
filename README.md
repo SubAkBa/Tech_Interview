@@ -46,6 +46,7 @@
 - [웹 동작 원리](/Web/웹동작원리.md)
 - [쿠키 (Cookie) & 세션 (Session)](/Web/쿠키(Cookie)&세션(Session).md)
 - [REST API](/Web/RESTAPI.md)
+- [XSS & CSRF](/Web/XSS&CSRF.md)
 
 <br />
 <br />
