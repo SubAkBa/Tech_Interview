@@ -3,7 +3,7 @@
 <br />
 
 ### 📌 정렬 알고리즘 (Algorithm)
-- [[URL]](https://www.notion.so/Algorithm-Technique-e47331c31739421f8f964a388d9ef052)
+- [[URL]](https://soobarkbar.tistory.com/category/Algorithm/Sort)
   
 <br />
 <br />
@@ -17,6 +17,7 @@
 - [트랜잭션 (Transaction)](/DB/트랜잭션(Transaction).md)
 - [트랜잭션 격리 수준 (Transaction Isolation Level)](/DB/트랜잭션격리수준(TransactionIsolationLevel).md)
 - [인덱스 (Index)](/DB/인덱스(Index).md)
+- [Redis](/DB/Redis.md)
 
 <br />
 <br />
@@ -60,6 +61,7 @@
 - [원시 타입 & 참조 타입 비교](/Java/원시타입&참조타입.md)
 - [동일성 (Identity) & 동등성 (Equality)](/Java/identity&equality.md)
 - [제네릭 (Generic)](/Java/Generic.md)
+- [컬렉션 프레임워크 (Collection Framework)](/Java/컬렉션프레임워크.md)
 - [final](/Java/Final.md)
 - [직렬화 (Serialization)](/Java/직렬화&역직렬화.md)
 - [접근제한자](/Java/접근제한자.md)
