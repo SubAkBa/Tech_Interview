@@ -14,10 +14,10 @@
 들어오는 모든 Request를 우선적으로 받아 처리해주는 서블릿이다.  
 
 과정
-> HandlerMapping을 통해 Request에 적절한 Controller를 선택한다.  
-> HandlerMapping으로 부터 받은 Controller 정보를 통해 해당 Controller와 매핑시킨다.
+> HandlerMapping이 Request에 적절한 Controller 정보를 전달한다.  
+> HandlerMapping으로 부터 받은 Controller 정보를 통해 해당하는 Controller와 매핑시킨다.
 >
-> Dispatcher = 배치 담당자라는 뜻으로, 즉 Request에 대해 어느 Controller로 매핑시킬 것인지 배치하는 역할을 수행한다.
+> Dispatcher = 배치 담당자라는 뜻, 즉 Request를 어느 Controller와 매핑시킬 것인지 배치하는 역할을 수행한다.
 
 <br />
 
@@ -34,9 +34,9 @@ Request가 Controller에 매핑되기 전에 앞단에서 부가적인 로직을
 <br />
 
 #### 5. Controller
-Request와 매핑되는 곳이며, Request를 어떤 로직 (Service) 으로 처리할 것인지를 결정하고 그에 맞는 Service를 호출한다.
+Request와 매핑되는 곳이며, Request를 어떤 로직으로 처리할 것인지를 결정하고 그에 맞는 Service를 호출한다.
 
-> Service Bean의 메소드를 호출해야 하기 때문에, Spring Container로 부터 Service Bean을 주입받아야 한다.
+> Service의 메소드를 호출해야 하기 때문에, Spring Container로 부터 Service Bean을 주입받아야 한다.
 
 <br />
 
@@ -57,4 +57,4 @@ Service에서 DB에 접근할 수 있게 하여 데이터의 CRUD를 수행할 �
 
 #### 8. ViewResolver
 Controller에서 반환한 View의 이름을 DispatcherServlet으로 부터 넘겨받고 해당 View를 렌더링한다.  
-렌더링한 View는 Dispatcher에게 전달하고, DispatcherServlet는 해당 View 화면을 Response한다.
+ViewResolver가 렌더링한 View를 DispatcherServlet에게 전달하고, DispatcherServlet은 해당 View 화면을 Response한다.
