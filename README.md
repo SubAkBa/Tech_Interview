@@ -36,7 +36,7 @@
 ### 📌 운영체제 (OS - Operating System)
 - [운영체제란?]()
 - [프로세스와 쓰레드 (Process & Thread)](/OS/프로세스&쓰레드.md)
-- [인터럽트 (Interupt)]()
+- [인터럽트 (Interrupt)]()
 - [경쟁상태 (Race Condition)](/OS/경쟁상태(RaceCondition).md)
 - [교착상태 (DeadLock)](/OS/교착상태(DeadLock).md)
 - [세마포어와 뮤텍스 (Semaphore & Mutex)](/OS/세마포어(Semaphore)&뮤텍스(Mutex).md)
